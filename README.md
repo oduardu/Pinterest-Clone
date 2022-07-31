@@ -1,6 +1,6 @@
 # Clone do Pinterest
 
-Basicamente um clone da Homepage do Pintrest, utilizando ```React``` com ```javascript``` e utilizando o ```NodeJS``` para inicializar o servidor.
+Basicamente um clone da Homepage do Pinterest, utilizando ```React``` com ```javascript``` e utilizando o ```NodeJS``` para inicializar o servidor.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)     ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)     ![Node.Js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
 
@@ -8,8 +8,8 @@ Basicamente um clone da Homepage do Pintrest, utilizando ```React``` com ```java
 ## Instalação
 
 ```bash
-git clone https://github.com/oduardu/Pintrest-Clone
-cd Pintrest-Clone-Homepage
+git clone https://github.com/oduardu/Pinterest-Clone
+cd Pinterest-Clone
 npm install
 ```
 
