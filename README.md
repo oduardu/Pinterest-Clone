@@ -1,4 +1,4 @@
-# Clone do Pintrest
+# Clone do Pinterest
 
 Basicamente um clone da Homepage do Pintrest, utilizando ```React``` com ```javascript``` e utilizando o ```NodeJS``` para inicializar o servidor.
 
