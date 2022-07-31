@@ -39,7 +39,7 @@ open: http://localhost:3000
 # Autor
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGQMq3tbvlg5w/profile-displayphoto-shrink_800_800/0/1658068635309?e=1665014400&v=beta&t=sP037al4_eWtWj_c_fd6v6BO5NkpwVUwykC8JpiFgXM" alt="Eduardo Pazzini Zancanaro" style="width:100px; border-radius: 100px; margin-left: 35px"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGQMq3tbvlg5w/profile-displayphoto-shrink_800_800/0/1658068635309?e=1665014400&v=beta&t=sP037al4_eWtWj_c_fd6v6BO5NkpwVUwykC8JpiFgXM" alt="Foto de Eduardo Pazzini Zancanaro" style="width:100px; border-radius: 100px; margin-left: 35px"/>
 
 Eduardo Pazzini Zancanaro
 
