@@ -43,4 +43,4 @@ open: http://localhost:3000
 
 Eduardo Pazzini Zancanaro
 
-       <a href="https://twitter.com/duardopz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="orafaelfragoso" height="30" width="30" /></a>       <a href="https://github.com/oduardu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="orafaelfragoso" height="30" width="30" /></a>
+    <a href="https://twitter.com/duardopz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="orafaelfragoso" height="30" width="30" /></a>       <a href="https://github.com/oduardu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="orafaelfragoso" height="30" width="30" /></a>
