@@ -8,7 +8,7 @@ Basicamente um clone da Homepage do Pintrest, utilizando ```React``` com ```java
 ## Instalação
 
 ```bash
-git clone https://github.com/oduardu/Pintrest-Clone-Homepage
+git clone https://github.com/oduardu/Pintrest-Clone
 cd Pintrest-Clone-Homepage
 npm install
 ```
